@@ -1,0 +1,6 @@
+Pipe Name (From http://www.polytherm.ie/v4/0940aa0c-5421-4a9b-840d-c9a2ae5d95bb/uploads/Premant%20Technical%20Catalogue.pdf),Material,Insulation Material,Inner Diameter (m),Min Flow (m3/hr),Max Flow (m3/hr),Hazen-Williams Roughness Constant,Capital Cost ($/m),Insulation Thickness (m),Composition Thermal Conductivity (W/m-K),Friction Loss Regression Coefficient 1,Friction Loss Regression Coefficient 0,Kinked Friction Loss Regression Coefficient 1
+Premant20,Steel,Polyurethane,0.0217,0,17,130,151.85548,0.09,0.1292,0.0163,0,0.0163
+Premant32,Steel,Polyurethane,0.0372,15,45.05383721,130,156.57368,0.11,0.1607,0.0133,-0.1872,0.000344
+Premant65,Steel,Polyurethane,0.0703,41.5429625,100,130,166.64932,0.14,0.241,0.0031,-0.1239,0.000337
+Premant80,Steel,Polyurethane,0.0825,91,261.936792,130,170.363,0.16,0.2484,0.0078,-0.7069,0.000332
+Premant125,Steel,Polyurethane,0.1325,216.6288834,1515.969212,130,185.583,0.225,0.3002,0.0125,-2.5,0.000326
